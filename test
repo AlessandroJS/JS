@@ -1,0 +1,28 @@
+background(151, 189, 180); // wooden table
+fill(235, 61, 235); //colour around the plate
+ellipse(200, 200, 350, 350); // plate
+fill(227, 226, 195); //colour of central plate
+ellipse(200, 200, 300, 300); //central plate
+fill(0, 255, 30); //colour of beans
+ellipse(87,119,10,10); //beans
+ellipse(80,131,10,10);
+ellipse(87,129,10,10);
+ellipse(96,124,10,10);
+ellipse(96,133,10,10);
+ellipse(87,138,10,10);
+ellipse(97,143,10,10);
+ellipse(88,146,10,10);
+ellipse(77,143,10,10);
+ellipse(104,137,10,10);
+ellipse(104,146,10,10);
+ellipse(97,152,10,10);
+ellipse(88,152,10,10);
+ellipse(97,158,10,10);
+fill(179, 164, 52); //colour of sauce
+ellipse(265,100,50,50); //sauce
+arc(192, 210, 15, 10, -180, 1); //sarmale
+fill(64, 122, 26);
+stroke(37, 133, 95);
+line(184,210,184,260);
+line(199,210,198,262);
+arc(192, 260, 15, 10, 1, 180);
